@@ -60,6 +60,20 @@ vrrp_instance VI_1 {
 ```
 
 #### Конфигурационный файл BACKUP: [keepalived_23.conf](https://github.com/Qshar1408/sflt-homeworks-01/blob/main/files/keepalived_23.conf)
+```bash
+vrrp_instance VI_1 {
+	state BACKUP
+	interface enp0s3
+	virtual_router_id 15
+	priority 155
+	advert_int 1
+
+	virtual_ipaddress {
+		192.168.123.99/24
+	}
+
+}
+```
 
 ![Keepalive_005](https://github.com/Qshar1408/sflt-homeworks-01/blob/main/img/sflt01_005.png)
 ![Keepalive_006](https://github.com/Qshar1408/sflt-homeworks-01/blob/main/img/sflt01_006.png)
