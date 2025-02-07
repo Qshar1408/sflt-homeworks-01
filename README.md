@@ -69,7 +69,7 @@ vrrp_instance VI_1 {
 	advert_int 1
 
 	virtual_ipaddress {
-		192.168.123.99/24
+		192.168.1.23/24
 	}
 
 }
