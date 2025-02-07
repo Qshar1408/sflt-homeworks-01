@@ -12,7 +12,7 @@
 ![Keepalive_002](https://github.com/Qshar1408/sflt-homeworks-01/blob/main/img/sflt01_002.png)
 ![Keepalive_003](https://github.com/Qshar1408/sflt-homeworks-01/blob/main/img/sflt01_003.png)
 ![Keepalive_004](https://github.com/Qshar1408/sflt-homeworks-01/blob/main/img/sflt01_004.png)
-![Keepalive_005](https://github.com/Qshar1408/sflt-homeworks-01/blob/main/files/hsrp_advanced_gribanovav.pkt)
+#### Схема pkt: [hsrp_advanced_gribanovav.pkt](https://github.com/Qshar1408/sflt-homeworks-01/blob/main/files/hsrp_advanced_gribanovav.pkt)
 
 ------
 
