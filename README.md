@@ -7,6 +7,12 @@
 - Необходимо аналогично настроить отслеживание состояния интерфейсов Gi0/0 (для первой группы).
 - Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
+- 
+![Keepalive_001](https://github.com/Qshar1408/sflt-homeworks-01/blob/main/img/sflt01_001.png)
+![Keepalive_002](https://github.com/Qshar1408/sflt-homeworks-01/blob/main/img/sflt01_002.png)
+![Keepalive_003](https://github.com/Qshar1408/sflt-homeworks-01/blob/main/img/sflt01_003.png)
+![Keepalive_004](https://github.com/Qshar1408/sflt-homeworks-01/blob/main/img/sflt01_004.png)
+![Keepalive_005](https://github.com/Qshar1408/sflt-homeworks-01/blob/main/files/hsrp_advanced_gribanovav.pkt)
 
 ------
 
